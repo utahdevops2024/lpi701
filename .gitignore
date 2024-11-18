@@ -6,7 +6,7 @@ utah.txt
 !lpi.txt
 utah
 arquivo?.
-**/cache/
+**/cached/
 !src/cached/
 .env
 config/secrets.json
