@@ -1,5 +1,13 @@
+#ignorando o arquivo utah.txt
 utah.txt
+#ignorando todos os arquivos com extensao .txt
 *.txt
+#adicionando o arquivo lpi.txt ao repositorio
+!lpi.txt
 utah
 arquivo?.
 **/cache/
+!src/cached/
+.env
+config/secrets.json
+
